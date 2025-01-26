@@ -1,6 +1,6 @@
 # cinecam-gd Extension for CinePi and Godot
 
-This is a Godot-Extension for CinePi, the Cinema Camera based on the Raspberry 5. Use this software in conjunction with this [fork](https://github.com/dapf00/cinepi-godot-proj) of CinePi-RAW and [CineCam](https://github.com/dapf00/cinecam).
+This is a Godot-Extension for CinePi, the Cinema Camera based on the Raspberry 5. Use this software in conjunction with this [fork](https://github.com/dapf00/cinepi-raw-fork) of CinePi-RAW and [CineCam](https://github.com/dapf00/cinecam).
 
 # Build Instructions
 Build the CinePi-RAW fork
