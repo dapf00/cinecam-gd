@@ -1,0 +1,25 @@
+Checks: >
+  google-*,
+  cppcoreguidelines-*,
+  readability-identifier-naming,
+  bugprone*,
+  clang-analyzer*,
+  readabilty*,
+  modernize*,
+  misc*
+WarningsAsErrors: ''
+CheckOptions:
+  - key: readability-identifier-naming.PrivateMemberPrefix
+    value: '_'
+  - key: readability-identifier-naming.PrivateFunctionPrefix
+    value: '_'
+  - key: readability-identifier-naming.PrivateMethodPrefix 
+    value: '_'
+  - key: readability-identifier-naming.ClassCase
+    value: CamelCase
+  - key: readability-identifier-naming.FunctionCase
+    value: lower_case
+  - key: readability-identifier-naming.VariableCase
+    value: lower_case
+  - key: readability-identifier-naming.ConstexprVariableCase
+    value: UPPER_CASE

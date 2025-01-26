@@ -1,0 +1,13 @@
+[submodule "godot-cpp"]
+	path = godot-cpp
+	url = https://github.com/godotengine/godot-cpp
+	branch = 4.3
+[submodule "cinepi"]
+	path = cinepi
+	url = /home/dario/cinepi/gdextension/cinepi
+[submodule "libcamera"]
+	path = libcamera
+	url = https://git.libcamera.org/libcamera/libcamera.git
+[submodule "libyuv"]
+	path = libyuv
+	url = https://chromium.googlesource.com/libyuv/libyuv
